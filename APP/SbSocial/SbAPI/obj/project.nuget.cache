@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtLs90gdSSC6a3MEFz+4cYf6GNTsTHAlGqquWQE/T3MUbRuj0yqNO51AQdp0zs7NgrV4HeXyXGv5GC2N3t0DYg==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Project\\SbSocialApp\\SbSocialApp\\APP\\SbSocial\\SbAPI\\SbAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\thanp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thanp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\thanp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\thanp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\thanp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
